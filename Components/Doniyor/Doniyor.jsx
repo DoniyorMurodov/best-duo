@@ -1,20 +1,49 @@
+import styles from "../../styles/Doniyor.module.css"
+import photos from "../../Assets/photo.doniyor.jpg"
+
 
 const Doniyor = () => {
   return (
     <>
-  <div className="navbar">
+  <div className={styles.navbar}>
     <div className="left">
-        <p>A creative agency based in Helsinki</p>
+        <p className={styles.p1}>A creative agency based in Helsinki</p>
         <p>hello@robi.com</p>
     </div>
     <div className="right">
-      <Link>Home</Link>
-      <Link>About</Link>
-      <Link>News</Link>
-      <Link>Contact</Link>
-      <Link>Cart</Link>
+   <a className={styles.a1} href="">Home</a>
+   <a className={styles.a1} href="">About</a>
+   <a className={styles.a1} href="">News</a>
+   <a className={styles.a1} href="">Contact</a>
+   <a href="">Cart</a>
     </div>
   </div>
+
+{/* ////////////////////////////////////////////NAVBAR//////////////////////////////////////////////////// */}
+
+
+<h1 className={styles.x1}>Roby</h1>
+
+
+
+
+<div className={styles.center}>
+    <div className="left-center">
+        <img className={styles.not} src={photos} alt="" />
+    </div>
+    <div className="right">
+        <h1>
+            We Believe That <br />The power of design <br />Helps <br />Businesses
+        </h1>
+        <div className="cart">
+            
+        </div>
+    </div>
+</div>
+
+
+
+
     </>
   )
 }

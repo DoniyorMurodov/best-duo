@@ -2,3 +2,24 @@
     margin-top: 20px;
     color: gray;
 }
+.navbar{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 20px;
+}
+.a1{
+    margin-right: 10px;
+}
+.not{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.x1{
+    text-align: center;
+    font-size: 40px;
+}
