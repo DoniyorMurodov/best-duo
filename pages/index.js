@@ -7,10 +7,10 @@ const home = () => {
   return (
     <>
 
-    hayr
+    
+    <Doniyor/>
     <Oybek />
 
-    <Doniyor/>
    </>
   )
 }
