@@ -1,0 +1,64 @@
+.hh1{
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.hh6{
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.hh2{
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-top: 35px;
+    font-weight: 700;
+}
+.hh3{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-size: 30px;
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 600;
+}
+.oybek1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+.oybek2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+    background-color: black;
+    color:  white;
+    height: 200px;
+}
+.pp1{
+    margin-top: 10px;
+}
+.fact{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+}
+.hh4{
+    color: white;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: px;
+}
+.hh5{
+    color: black;
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 35px;
+}
