@@ -1,5 +1,5 @@
 
-const index = () => {
+const home = () => {
   return (
     <>
     hayr
@@ -7,4 +7,4 @@ const index = () => {
   )
 }
 
-export default index
+export default home;
