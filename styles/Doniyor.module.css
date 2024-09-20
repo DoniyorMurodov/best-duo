@@ -11,8 +11,8 @@
     margin-right: 10px;
 }
 .not{
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     background-color: red;
 }
 .center{
@@ -22,4 +22,105 @@
 .x1{
     text-align: center;
     font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.cart{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 45px;
+}
+.xx{
+    font-size: 30px;
+}
+.rightcenter{
+    margin-left: 100px;
+}
+.cx1{
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.h1s{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+.x1x{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-right: 300px;
+    margin-top: 100px;
+}
+.ph{
+    color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 400px;
+    margin-top: 30px;
+}
+.l{
+    color: gray;
+}
+.but{
+    border: 2px solid;
+    width: 300px;
+}
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.second{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.third{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.fours{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.fives{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bottom{
+margin-top: 50px;
+}
+.centers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rigs{
+    margin-top: 130px;
+}
+.lets{
+    margin-bottom: 150px;
+}
+.all{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.rightt{
+    margin-top: 100px;
 }
